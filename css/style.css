@@ -1,0 +1,48 @@
+body{
+
+}
+
+.sectionNavSuperior {
+    background-color: black;
+    color: white;
+    display: inline;
+}
+
+#alignLeft{
+    text-align: left;
+}
+
+#alignRight{
+    text-align: right;
+}
+
+.sectionNavPrincipal {
+    background-color: #F0A83E;
+}
+
+.inline{
+    display: inline-flex;
+}
+
+.inline div{
+    margin: 15px;
+}
+
+.banner{
+    text-align: center;
+}
+
+#imgBanner{
+    width: 100%;
+}
+
+.sectionProductosDestacados{
+    text-align: center;
+    box-sizing: border-box;
+}
+
+ul li {
+    display: inline;
+    text-decoration: none;
+    margin: 10px;
+}
